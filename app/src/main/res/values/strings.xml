@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">나만의 비밀 맛집 다이어리</string>
+    <string name="tab_text_1">Add Places</string>
+    <string name="tab_text_2">Places List</string>
+    <string name="tab_text_3">Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
